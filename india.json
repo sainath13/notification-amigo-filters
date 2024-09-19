@@ -10,7 +10,7 @@
   },
   {
     "ruleName": "Office Hours Job Notifications Filter",
-    "packageNames": "com.linkedin.android,com.indeed.android.jobsearch,com.naukri.app,com.google.android.apps.messaging,com.android.mms,com.google.android.gm,com.microsoft.office.outlook",
+    "packageNames": "com.linkedin.android,com.indeed.android.jobsearch,com.naukri.app,com.google.android.apps.messaging,com.android.mms,com.samsung.android.messaging,com.google.android.gm,com.microsoft.office.outlook",
     "titleKeyword": "Job",
     "bodyKeyword": "Hiring",
     "startTime": "09:00",
